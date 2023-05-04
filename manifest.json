@@ -1,0 +1,9 @@
+{
+    "name": "Auga_French",
+    "description": "Traduction en Français pour Auga",
+    "version_number": "1.2.9",
+    "website_url": "https://valheim.thunderstore.io/package/RandyKnapp/Auga/",
+    "dependencies": [
+        "RandyKnapp-Auga-1.2.9"
+    ]
+}
